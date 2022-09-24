@@ -7,12 +7,7 @@ Este instalador solo funciona en cualquier Windows 10 y versiones 1709 o posteri
 # ¿Como descargar? + Instrucciones
 <a href="https://github.com/ottersec2015/SkoreStore/releases/download/SkoreStore/SkoreStore.rar">Descargalo aquí! Y sigue las instrucciones!</a>
 
-  ______     __  __     ______     ______     ______     ______     ______   ______     ______     ______    
- /\  ___\   /\ \/ /    /\  __ \   /\  == \   /\  ___\   /\  ___\   /\__  _\ /\  __ \   /\  == \   /\  ___\   
- \ \___  \  \ \    -.  \ \ \/\ \  \ \  __/   \ \  __\   \ \___  \  \/_/\ \/ \ \ \/\ \  \ \  __/    \ \  __\    Manual de
-  \/\_____\  \ \_\ \_\  \ \_____\  \ \_\ \_\  \ \_____\  \/\_____\    \ \_\  \ \_____\  \ \_\ \_\  \ \_____\   Instrucciones
-   \/_____/   \/_/\/_/   \/_____/   \/_/ /_/   \/_____/   \/_____/     \/_/   \/_____/   \/_/ /_/   \/_____/ 
-
+# Manual de Instrucciones
 				         Skore & bl4 & ottersec2015
 
 Si no tienes la ultima version actualiza en https://github.com/ottersec2015/SkoreStore
